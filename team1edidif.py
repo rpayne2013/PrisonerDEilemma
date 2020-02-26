@@ -10,6 +10,8 @@ big_fingas = 'The name the team gives to itself' # Only 10 chars displayed.
 strategy_name = 'The name the team gives to this strategy'
 strategy_description = 'How does this strategy decide?'
 teaam_name = 'big fingas' # Only 10 chars displayed.
+team_number = 42069
+team_name = 'big fingas' # Only 10 chars displayed.
 strategy_name = 'kanye west he likes big fingas'
 strategy_description = 'whoever has the biggest fingas dies'
     
